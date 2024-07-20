@@ -9,5 +9,6 @@ Nama Anggota Kelompok:
 *Catatan Penting:
 - Repository website yaitu http://localhost/toys_store/public/index.php
 - Repository Database SQL yaitu toys_store/database/final_project.sql
+- Link google drive yaitu https://drive.google.com/drive/folders/1Y56rYK0Zs99sBUtlluTsqq0NgZY5CXEW?usp=sharing
 
 Terima Kasih...
